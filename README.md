@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
 
+## Install
+
+Install Angular
+`npm install -g @angular/cli`
+
+If this fails you may need to update or install node.js
+Clear NPM's cache 
+`sudo npm cache clean -f`
+Install 'n'
+`sudo npm install -g n`
+Install latest stable Node.js version
+`sudo n stable`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
